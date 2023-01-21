@@ -1,5 +1,5 @@
 [[file:LICENSE][https://img.shields.io/github/license/ROCKTAKEY/roquelpa.svg?style=flat-square]]
-[[https://github.com/ROCKTAKEY/roquelpa/actions][https://img.shields.io/github/workflow/status/ROCKTAKEY/roquelpa/pages/master.svg?style=flat-square]]
+[[https://github.com/ROCKTAKEY/roquelpa/actions][https://img.shields.io/github/actions/workflow/status/ROCKTAKEY/roquelpa/pages.yml.svg?style=flat-square]]
 * roquelpa: My Emacs Lisp Package Archive
 * How to Use?
 #+begin_src emacs-lisp :tangle yes
