@@ -1,0 +1,4 @@
+(term-project :fetcher github
+              :repo "ROCKTAKEY/term-manager"
+              :files ("term-project.el")
+              :branch "add-term-project")
